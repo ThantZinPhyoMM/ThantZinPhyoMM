@@ -1,10 +1,8 @@
-Hi 👋, I am Thant Zin Phyo from burma.
+Hi 👋, I'm Thant Zin Phyo From Burma.
 
-I was graduated with B.A (Geography) from Kyaukse University. 
+I Studied About System Engineering , Cloud Computing & Cloud Security . Since I Was Under Graduated. 
 
-I studied about System Engineering , Cloud Computing & Cloud Security . Since I was under graduated. 
-
-Now I'm currently working as Azure Administrator and Security Operations Analyst.
+Now I'm Currently Working As Azure Administrator & Security Operations Analyst.
 
 Connect With Me:
  

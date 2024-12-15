@@ -1,7 +1,5 @@
 Hi 👋, I'm Thant Zin Phyo From Burma.
 
-I Studied About System Engineering & Cloud Security .
-
 Now I'm Currently Working As Azure Administrator & Security Operations Analyst.
 
 Connect With Me:
